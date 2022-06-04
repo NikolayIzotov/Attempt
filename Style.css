@@ -1,0 +1,12 @@
+html{
+    background-color: rgb(201, 213, 216);
+}
+h1 {
+    font-size: 50px;
+    color: rgb(79, 22, 212);
+    text-align: center;
+}
+.image {
+    display: block;
+    margin: auto;
+}
